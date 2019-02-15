@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETLTASK1", "ETLTASK1\ETLTASK1.dtproj", "{547756F3-0017-40B2-B265-1F4A66E1A0BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{547756F3-0017-40B2-B265-1F4A66E1A0BD}.Development|Default.ActiveCfg = Development
+		{547756F3-0017-40B2-B265-1F4A66E1A0BD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8443A11D-22C0-48E1-A469-2127AF3CB90C}
+	EndGlobalSection
+EndGlobal
